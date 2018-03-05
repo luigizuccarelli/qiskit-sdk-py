@@ -34,7 +34,7 @@ limitations under the License.
 
 #include "binary_vector.hpp" // Binary Vector class
 #include "clifford.hpp"      // Clifford tableau class
-#include "json.hpp"          // JSON Class library
+#include "headers/json.hpp"  // JSON Class library
 #include "matrix.hpp"        // Matrix class library
 
 /***************************************************************************/ /**
